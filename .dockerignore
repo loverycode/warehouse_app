@@ -1,0 +1,13 @@
+build/
+*.o
+*.a
+*.so
+*.exe
+*.out
+.DS_Store
+.git/
+.vscode/
+.idea/
+*.log
+*.db
+*.sqlite

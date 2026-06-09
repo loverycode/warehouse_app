@@ -1,0 +1,14 @@
+# Target labels
+ googletest-populate
+# Source files and their labels
+/Users/arinazyranova/Desktop/projects/пкс/WareHouseProject/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate
+/Users/arinazyranova/Desktop/projects/пкс/WareHouseProject/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.rule
+/Users/arinazyranova/Desktop/projects/пкс/WareHouseProject/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete.rule
+/Users/arinazyranova/Desktop/projects/пкс/WareHouseProject/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build.rule
+/Users/arinazyranova/Desktop/projects/пкс/WareHouseProject/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure.rule
+/Users/arinazyranova/Desktop/projects/пкс/WareHouseProject/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download.rule
+/Users/arinazyranova/Desktop/projects/пкс/WareHouseProject/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install.rule
+/Users/arinazyranova/Desktop/projects/пкс/WareHouseProject/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir.rule
+/Users/arinazyranova/Desktop/projects/пкс/WareHouseProject/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch.rule
+/Users/arinazyranova/Desktop/projects/пкс/WareHouseProject/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test.rule
+/Users/arinazyranova/Desktop/projects/пкс/WareHouseProject/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update.rule

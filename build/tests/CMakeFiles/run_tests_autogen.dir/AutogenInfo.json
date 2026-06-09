@@ -1,0 +1,261 @@
+{
+	"BUILD_DIR" : "/Users/arinazyranova/Desktop/projects/\u043f\u043a\u0441/WareHouseProject/build/tests/run_tests_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/arinazyranova/Desktop/projects/\u043f\u043a\u0441/WareHouseProject/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/arinazyranova/Desktop/projects/\u043f\u043a\u0441/WareHouseProject/build/tests",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/arinazyranova/Desktop/projects/\u043f\u043a\u0441/WareHouseProject/tests",
+	"CMAKE_EXECUTABLE" : "/opt/homebrew/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/Users/arinazyranova/Desktop/projects/\u043f\u043a\u0441/WareHouseProject/tests/CMakeLists.txt",
+		"/opt/homebrew/share/cmake/Modules/FetchContent.cmake",
+		"/opt/homebrew/share/cmake/Modules/ExternalProject/shared_internal_commands.cmake",
+		"/opt/homebrew/share/cmake/Modules/FetchContent/CMakeLists.cmake.in"
+	],
+	"CMAKE_SOURCE_DIR" : "/Users/arinazyranova/Desktop/projects/\u043f\u043a\u0441/WareHouseProject",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "/Users/arinazyranova/Desktop/projects/\u043f\u043a\u0441/WareHouseProject/build/tests/run_tests_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "run_tests_autogen/timestamp",
+	"HEADERS" : [],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/Users/arinazyranova/Desktop/projects/\u043f\u043a\u0441/WareHouseProject/build/tests/run_tests_autogen/include",
+	"MOC_COMPILATION_FILE" : "/Users/arinazyranova/Desktop/projects/\u043f\u043a\u0441/WareHouseProject/build/tests/run_tests_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_NO_DEBUG", "QT_WIDGETS_LIB" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/Users/arinazyranova/Desktop/projects/\u043f\u043a\u0441/WareHouseProject/include",
+		"/opt/homebrew/include/postgresql@14",
+		"/opt/homebrew/include/postgresql@14/server",
+		"/Users/arinazyranova/Desktop/projects/\u043f\u043a\u0441/WareHouseProject/build/_deps/googletest-src/googletest/include",
+		"/Users/arinazyranova/Desktop/projects/\u043f\u043a\u0441/WareHouseProject/build/_deps/googletest-src/googletest",
+		"/Users/arinazyranova/Qt/6.9.0/macos/lib/QtCore.framework/Headers",
+		"/Users/arinazyranova/Qt/6.9.0/macos/lib/QtCore.framework",
+		"/Users/arinazyranova/Qt/6.9.0/macos/mkspecs/macx-clang",
+		"/Users/arinazyranova/Qt/6.9.0/macos/include",
+		"/Users/arinazyranova/Qt/6.9.0/macos/lib/QtWidgets.framework/Headers",
+		"/Users/arinazyranova/Qt/6.9.0/macos/lib/QtWidgets.framework",
+		"/Users/arinazyranova/Qt/6.9.0/macos/lib/QtGui.framework/Headers",
+		"/Users/arinazyranova/Qt/6.9.0/macos/lib/QtGui.framework",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1",
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/16/include",
+		"/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include",
+		"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT",
+		"Q_ENUM_NS"
+	],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-std=gnu++17",
+		"-w",
+		"-dM",
+		"-E",
+		"/opt/homebrew/share/cmake/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/Users/arinazyranova/Desktop/projects/\u043f\u043a\u0441/WareHouseProject/build/tests/run_tests_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 8,
+	"PARSE_CACHE_FILE" : "/Users/arinazyranova/Desktop/projects/\u043f\u043a\u0441/WareHouseProject/build/tests/CMakeFiles/run_tests_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/Users/arinazyranova/Qt/6.9.0/macos/libexec/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 9,
+	"SETTINGS_FILE" : "/Users/arinazyranova/Desktop/projects/\u043f\u043a\u0441/WareHouseProject/build/tests/CMakeFiles/run_tests_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/Users/arinazyranova/Desktop/projects/\u043f\u043a\u0441/WareHouseProject/src/builder/OrderBuilder.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/arinazyranova/Desktop/projects/\u043f\u043a\u0441/WareHouseProject/src/core/Admin.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/arinazyranova/Desktop/projects/\u043f\u043a\u0441/WareHouseProject/src/core/Employee.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/arinazyranova/Desktop/projects/\u043f\u043a\u0441/WareHouseProject/src/core/Product.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/arinazyranova/Desktop/projects/\u043f\u043a\u0441/WareHouseProject/src/core/Stock.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/arinazyranova/Desktop/projects/\u043f\u043a\u0441/WareHouseProject/src/core/User.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/arinazyranova/Desktop/projects/\u043f\u043a\u0441/WareHouseProject/src/database/Database.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/arinazyranova/Desktop/projects/\u043f\u043a\u0441/WareHouseProject/src/documents/Order.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/arinazyranova/Desktop/projects/\u043f\u043a\u0441/WareHouseProject/src/documents/OrderItem.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/arinazyranova/Desktop/projects/\u043f\u043a\u0441/WareHouseProject/src/documents/Receipt.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/arinazyranova/Desktop/projects/\u043f\u043a\u0441/WareHouseProject/src/documents/ReceiptItem.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/arinazyranova/Desktop/projects/\u043f\u043a\u0441/WareHouseProject/src/documents/Shipment.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/arinazyranova/Desktop/projects/\u043f\u043a\u0441/WareHouseProject/src/documents/ShipmentItem.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/arinazyranova/Desktop/projects/\u043f\u043a\u0441/WareHouseProject/src/facade/WarehouseFacade.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/arinazyranova/Desktop/projects/\u043f\u043a\u0441/WareHouseProject/src/factory/DocumentFactory.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/arinazyranova/Desktop/projects/\u043f\u043a\u0441/WareHouseProject/src/factory/EmployeeDocumentFactory.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/arinazyranova/Desktop/projects/\u043f\u043a\u0441/WareHouseProject/src/observer/Observer.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/arinazyranova/Desktop/projects/\u043f\u043a\u0441/WareHouseProject/src/observer/Subject.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/arinazyranova/Desktop/projects/\u043f\u043a\u0441/WareHouseProject/src/state/CancelledState.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/arinazyranova/Desktop/projects/\u043f\u043a\u0441/WareHouseProject/src/state/ClosedState.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/arinazyranova/Desktop/projects/\u043f\u043a\u0441/WareHouseProject/src/state/CreatedState.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/arinazyranova/Desktop/projects/\u043f\u043a\u0441/WareHouseProject/src/state/OrderState.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/arinazyranova/Desktop/projects/\u043f\u043a\u0441/WareHouseProject/tests/main.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/arinazyranova/Desktop/projects/\u043f\u043a\u0441/WareHouseProject/tests/scenarios.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/arinazyranova/Desktop/projects/\u043f\u043a\u0441/WareHouseProject/tests/test_admin.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/arinazyranova/Desktop/projects/\u043f\u043a\u0441/WareHouseProject/tests/test_database.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/arinazyranova/Desktop/projects/\u043f\u043a\u0441/WareHouseProject/tests/test_employee.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/arinazyranova/Desktop/projects/\u043f\u043a\u0441/WareHouseProject/tests/test_facade.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/arinazyranova/Desktop/projects/\u043f\u043a\u0441/WareHouseProject/tests/test_order.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/arinazyranova/Desktop/projects/\u043f\u043a\u0441/WareHouseProject/tests/test_orderitem.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/arinazyranova/Desktop/projects/\u043f\u043a\u0441/WareHouseProject/tests/test_product.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/arinazyranova/Desktop/projects/\u043f\u043a\u0441/WareHouseProject/tests/test_receipt.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/arinazyranova/Desktop/projects/\u043f\u043a\u0441/WareHouseProject/tests/test_shipment.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/arinazyranova/Desktop/projects/\u043f\u043a\u0441/WareHouseProject/tests/test_stock.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/Users/arinazyranova/Desktop/projects/\u043f\u043a\u0441/WareHouseProject/tests/test_user.cpp",
+			"Mu",
+			null
+		]
+	],
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

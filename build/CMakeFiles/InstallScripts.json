@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/arinazyranova/Desktop/projects/\u043f\u043a\u0441/WareHouseProject/build/cmake_install.cmake",
+		"/Users/arinazyranova/Desktop/projects/\u043f\u043a\u0441/WareHouseProject/build/tests/cmake_install.cmake",
+		"/Users/arinazyranova/Desktop/projects/\u043f\u043a\u0441/WareHouseProject/build/_deps/googletest-build/cmake_install.cmake",
+		"/Users/arinazyranova/Desktop/projects/\u043f\u043a\u0441/WareHouseProject/build/_deps/googletest-build/googlemock/cmake_install.cmake",
+		"/Users/arinazyranova/Desktop/projects/\u043f\u043a\u0441/WareHouseProject/build/_deps/googletest-build/googletest/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
